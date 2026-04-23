@@ -1,4 +1,4 @@
-ELT arrestable chopper in the ELT system was not stopping reproducibily so wanted to test it. 
+System arrestable chopper in the system was not stopping reproducibily so wanted to test it. 
 
 Set up the hardware to be TMC mono , QH light source , on the internal SI detector. Manually ranged the 487 and signal read 3.08V when stopped in the correct place. 
 
