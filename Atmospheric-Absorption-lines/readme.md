@@ -1,4 +1,4 @@
-During ELT I had some unexpected peaks and shape in the spectrum that I wanted to check if it was a system issue or real. 
+During an experiment I had some unexpected peaks and shape in the spectrum that I wanted to check if it was a system issue or real. 
 
 I opened the lid and breathed into it and could see the sugnal change. 
 
